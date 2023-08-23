@@ -5,6 +5,7 @@ The purpose of this project is to analyze the Georgetown University Multilayer (
 - token
 - ner_tag
 
+  
 This corpus contains English texts from twelve written and spoken text types:
 - interviews
 - news
@@ -18,4 +19,6 @@ This corpus contains English texts from twelve written and spoken text types:
 - political speeches
 - textbooks
 - vlogs
+
+  
 Our goal is to classify correctly the 23 classes coming from the ner_tag through a BILSTM and Bert Model
