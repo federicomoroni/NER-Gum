@@ -1,7 +1,7 @@
 # NER-Gum
 Named Entity Recognition for GUM
 
-The purpose of this project is to analyze the Georgetown University Multilayer (GUM) Corpus coming from this repo, that contains two columns:
+The purpose of this project is to analyze the Georgetown University Multilayer (GUM) Corpus coming from this GUM repo, that contains two columns:
 - token
 - ner_tag
 
